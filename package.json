@@ -26,7 +26,7 @@
     "@commitlint/cli": "17.0.3",
     "@commitlint/config-conventional": "17.0.3",
     "husky": "8.0.1",
-    "lint-staged": "13.0.3",
+    "lint-staged": "15.5.2",
     "markdownlint-cli": "0.32.0",
     "prettier": "2.7.1",
     "prettier-plugin-packagejson": "2.2.18"
